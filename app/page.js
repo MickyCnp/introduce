@@ -41,7 +41,7 @@ export default function Home() {
 
         <div className="mt-10 flex flex-row">
           <a href="https://www.facebook.com/chinnaphat.panphrom/"><button className="mx-5"><Image src="/Facebook_Logo.png" width={50} height={100}/></button></a>
-          <a href="https://www.instagram.com/cnp.best/"><button className="mx-5"><Image src="/Instagram_Logo.png" width={50} height={100}/></button></a>
+          <a href="https://www.instagram.com/cnp.best/"><button className="mx-5"><Image src="/Instagram_logo.png" width={50} height={100}/></button></a>
         </div>
       </div>
     </div>
